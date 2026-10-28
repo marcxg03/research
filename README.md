@@ -7,12 +7,13 @@ Index of my research software and analysis pipelines — psychology research too
 | Project | What it is | Status | Access |
 |---|---|---|---|
 | [epiphany_scraper](https://github.com/marcxg03/epiphany_scraper) | Narrative example-bank retrieval tool for epiphanic narrative sequence research (primary project; poster presented Apr 2026) | Active | Public |
-| [bot-detector](https://github.com/marcxg03/bot-detector) | Streamlit app for detecting bot responses in survey CSV data (Freedom of Expression study) | Active | Public |
+| [bot-detector](https://github.com/marcxg03/bot-detector) | Streamlit app for detecting bot responses in survey CSV data (Freedom of Expression study) | Delivered | Public |
 | [web_scraper](https://github.com/marcxg03/web_scraper) | Streamlit tool for collecting narrative text passages from Reddit and the web, with Claude-powered passage extraction | Delivered | Public |
 | [study-abroad-control-scraper](https://github.com/marcxg03/study-abroad-control-scraper) | Streamlit tool for identifying and scraping Reddit control-group users for study-abroad psychology research | Delivered | Public |
 | [responsibilism-analysis](https://github.com/marcxg03/responsibilism-analysis) | County-level computational cultural psychology — Reddit corpora + word2vec cultural dimensions (Kozlowski, Taddy & Evans 2019 method) | Active | Private — unpublished collaborative work, available on request |
 | [study2-preprocessing](https://github.com/marcxg03/study2-preprocessing) | Preprocessing pipeline for Dimensions of Wellbeing Study 2 NLP analysis — cleans, merges, and translates open-ended responses across 4 datasets | Handed off (Apr 2026) | Private |
-| [oishi-lab-workflows](https://github.com/marcxg03/oishi-lab-workflows) | Lab-operations AI workflows — Slack agents, channel curation, meeting prep and ingest automation (lab manager role) | Active | Private — lab internal |
+| [housing-classifier](https://github.com/marcxg03/housing-classifier) | Housing Affordability Study 2 — Claude-based classifier labelling Reddit users' subsidized-rental housing status against a 17-rule codebook; reproducibility-tested, 192-case blind validation set; feeds a staggered DiD / event-study design (Russell Sage Foundation) | Active | Private — unpublished, available on request |
+| Oishi Lab agent fleet | Lab operations as 11 scheduled agents: Zoom meeting → transcript, recap and action items in Drive + Slack; per-project Doc ledgers and Slack canvases; presenter-schedule and roster proposals (human-approved); weekly self-maintenance. Earlier prototypes in [oishi-lab-workflows](https://github.com/marcxg03/oishi-lab-workflows) | Live (Fall 2026) | Private — lab internal |
 
 ## Themes
 
